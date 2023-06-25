@@ -97,11 +97,11 @@ proxy-groups:
   - name: Proxies
     type: select
     proxies:
-      - TG搜索@fantasticsgame来进群-HK
-      - TG搜索@fantasticsgame来进群-SG
-      - TG搜索@fantasticsgame来进群-JP
-      - TG搜索@fantasticsgame来进群-US
-      - TG搜索@fantasticsgame来进群-TW
+      - HK
+      - SG
+      - JP
+      - US
+      - TW
       - TG搜索@fantasticsgame来进群 ²
       - TG搜索@fantasticsgame来进群 ³
       - TG搜f索@fantasticsgame来进群
@@ -162,27 +162,27 @@ proxy-groups:
       - TG搜pb索@fantasticsgame来进群 3
       - TG搜pb索@fantasticsgame来进群 4
       - TG搜pb索@fantasticsgame来进群 5
-      - 🇯🇵 TG搜索@fantasticsgame来进群-日本05
-      - 🇭🇰 TG搜索@fantasticsgame来进群-香港08
-      - 🇭🇰 TG搜索@fantasticsgame来进群-香港07
-      - 🇯🇵 TG搜索@fantasticsgame来进群-日本08
-      - 🇭🇰 TG搜索@fantasticsgame来进群-香港02
-      - 🇭🇰 TG搜索@fantasticsgame来进群-香港05
-      - 🇯🇵 TG搜索@fantasticsgame来进群-日本06
-      - 🇯🇵 TG搜索@fantasticsgame来进群-日本10
-      - 🇯🇵 TG搜索@fantasticsgame来进群-日本04
-      - 🇯🇵 TG搜索@fantasticsgame来进群-日本07
-      - 🇭🇰 TG搜索@fantasticsgame来进群-香港06
-      - 🇭🇰 TG搜索@fantasticsgame来进群-香港10
-      - 🇭🇰 TG搜索@fantasticsgame来进群-香港03
-      - 🇭🇰 TG搜索@fantasticsgame来进群-香港01
-      - 🇭🇰 TG搜索@fantasticsgame来进群-香港04
-      - 🇭🇰 TG搜索@fantasticsgame来进群-香港09
-      - TG搜索@fantasticsgame来进群-07
-      - TG搜索@fantasticsgame来进群-06
-      - TG搜索@fantasticsgame来进群-04
-      - TG搜索@fantasticsgame来进群-03
-      - TG搜索@fantasticsgame来进群-02
+      - 🇯🇵 日本05
+      - 🇭🇰 香港08
+      - 🇭🇰 香港07
+      - 🇯🇵 日本08
+      - 🇭🇰 香港02
+      - 🇭🇰 香港05
+      - 🇯🇵 日本06
+      - 🇯🇵 日本10
+      - 🇯🇵 日本04
+      - 🇯🇵 日本07
+      - 🇭🇰 香港06
+      - 🇭🇰 香港10
+      - 🇭🇰 香港03
+      - 🇭🇰 香港01
+      - 🇭🇰 香港04
+      - 🇭🇰 香港09
+      - 07
+      - 06
+      - 04
+      - 03
+      - 02
       - TG搜索@fantasticsgame来进群h
       - TG搜索@fantasticsgame来进群h 2
       - TG搜索@fantasticsgame来进群h 3
