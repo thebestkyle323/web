@@ -29,16 +29,16 @@ proxies:
   - {name: TG搜索@ifantasticsgame来进群hxtll 5, server: shck8bq.olb8qsg.top, port: 38102, type: vmess, uuid: 2fc747a9-54d3-434d-8ecb-0b11b80e8975, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: gw.alicdn.com}}, udp: true}
   - {name: TG搜索@ifantasticsgame来进群hxtll 6, server: hz.jeidian.xyz, port: 1194, type: vmess, uuid: 2fc747a9-54d3-434d-8ecb-0b11b80e8975, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: gw.alicdn.com}}, udp: true}
   - {name: TG搜索@ifantasticsgame来进群hxtll 7, server: shck8bq.olb8qsg.top, port: 20400, type: vmess, uuid: 2fc747a9-54d3-434d-8ecb-0b11b80e8975, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: gw.alicdn.com}}, udp: true}
-  - {name: TG搜索@ifantasticsgame来进群hxzxf, server: shck8bq.olb8qsg.top, port: 23246, type: vmess, uuid: 735d5b95-aed2-408c-8559-2d344fdfc001, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: gw.alicdn.com}}, udp: true}
-  - {name: TG搜索@ifantasticsgame来进群hxzxf 2, server: shck8bq.olb8qsg.top, port: 37295, type: vmess, uuid: 735d5b95-aed2-408c-8559-2d344fdfc001, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: gw.alicdn.com}}, udp: true}
-  - {name: TG搜索@ifantasticsgame来进群hxzxf 3, server: shck8bq.olb8qsg.top, port: 33382, type: vmess, uuid: 735d5b95-aed2-408c-8559-2d344fdfc001, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: gw.alicdn.com}}, udp: true}
-  - {name: TG搜索@ifantasticsgame来进群hxzxf 4, server: shck8bq.olb8qsg.top, port: 47104, type: vmess, uuid: 735d5b95-aed2-408c-8559-2d344fdfc001, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: gw.alicdn.com}}, udp: true}
-  - {name: TG搜索@ifantasticsgame来进群hxzxf 5, server: shck8bq.olb8qsg.top, port: 38102, type: vmess, uuid: 735d5b95-aed2-408c-8559-2d344fdfc001, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: gw.alicdn.com}}, udp: true}
-  - {name: TG搜索@ifantasticsgame来进群hxzxf 6, server: hz.jeidian.xyz, port: 1194, type: vmess, uuid: 735d5b95-aed2-408c-8559-2d344fdfc001, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: gw.alicdn.com}}, udp: true}
-  - {name: TG搜索@ifantasticsgame来进群hxzxf 7, server: shck8bq.olb8qsg.top, port: 20400, type: vmess, uuid: 735d5b95-aed2-408c-8559-2d344fdfc001, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: gw.alicdn.com}}, udp: true}
-  - {name: TG搜索@ifantasticsgame来进群hxzxf 8, server: hz.jeidian.xyz, port: 8402, type: vmess, uuid: 735d5b95-aed2-408c-8559-2d344fdfc001, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: gw.alicdn.com}}, udp: true}
-  - {name: TG搜索@ifantasticsgame来进群hxzxf 9, server: hz.jeidian.xyz, port: 1489, type: vmess, uuid: 735d5b95-aed2-408c-8559-2d344fdfc001, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: gw.alicdn.com}}, udp: true}
-  - {name: TG搜索@ifantasticsgame来进群hxzxf 10, server: shck8bq.olb8qsg.top, port: 10675, type: vmess, uuid: 735d5b95-aed2-408c-8559-2d344fdfc001, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: gw.alicdn.com}}, udp: true}
+  - {name: TG搜索@ifantasticsgame来进群bestgame, server: shck8bq.olb8qsg.top, port: 23246, type: vmess, uuid: 735d5b95-aed2-408c-8559-2d344fdfc001, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: gw.alicdn.com}}, udp: true}
+  - {name: TG搜索@ifantasticsgame来进群bestgame 2, server: shck8bq.olb8qsg.top, port: 37295, type: vmess, uuid: 735d5b95-aed2-408c-8559-2d344fdfc001, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: gw.alicdn.com}}, udp: true}
+  - {name: TG搜索@ifantasticsgame来进群bestgame 3, server: shck8bq.olb8qsg.top, port: 33382, type: vmess, uuid: 735d5b95-aed2-408c-8559-2d344fdfc001, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: gw.alicdn.com}}, udp: true}
+  - {name: TG搜索@ifantasticsgame来进群bestgame 4, server: shck8bq.olb8qsg.top, port: 47104, type: vmess, uuid: 735d5b95-aed2-408c-8559-2d344fdfc001, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: gw.alicdn.com}}, udp: true}
+  - {name: TG搜索@ifantasticsgame来进群bestgame 5, server: shck8bq.olb8qsg.top, port: 38102, type: vmess, uuid: 735d5b95-aed2-408c-8559-2d344fdfc001, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: gw.alicdn.com}}, udp: true}
+  - {name: TG搜索@ifantasticsgame来进群bestgame 6, server: hz.jeidian.xyz, port: 1194, type: vmess, uuid: 735d5b95-aed2-408c-8559-2d344fdfc001, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: gw.alicdn.com}}, udp: true}
+  - {name: TG搜索@ifantasticsgame来进群bestgame 7, server: shck8bq.olb8qsg.top, port: 20400, type: vmess, uuid: 735d5b95-aed2-408c-8559-2d344fdfc001, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: gw.alicdn.com}}, udp: true}
+  - {name: TG搜索@ifantasticsgame来进群bestgame 8, server: hz.jeidian.xyz, port: 8402, type: vmess, uuid: 735d5b95-aed2-408c-8559-2d344fdfc001, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: gw.alicdn.com}}, udp: true}
+  - {name: TG搜索@ifantasticsgame来进群bestgame 9, server: hz.jeidian.xyz, port: 1489, type: vmess, uuid: 735d5b95-aed2-408c-8559-2d344fdfc001, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: gw.alicdn.com}}, udp: true}
+  - {name: TG搜索@ifantasticsgame来进群bestgame 10, server: shck8bq.olb8qsg.top, port: 10675, type: vmess, uuid: 735d5b95-aed2-408c-8559-2d344fdfc001, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: gw.alicdn.com}}, udp: true}
   - {name: TG搜索@ifantasticsgame来进群f5, server: camtleaa.76898102.xyz, port: 2095, type: vmess, uuid: 1f70e81d-6d32-3470-a7c4-2d53bf4761da, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /funsdfrh, headers: {Host: camtlea.76898102.xyz}}, udp: true}
   - {name: TG搜索@ifantasticsgame来进群f5 2, server: camtlebb.76898102.xyz, port: 2095, type: vmess, uuid: 1f70e81d-6d32-3470-a7c4-2d53bf4761da, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /funsdfrh, headers: {Host: camtleb.76898102.xyz}}, udp: true}
   - {name: TG搜索@ifantasticsgame来进群f5 3, server: bxaa.76898102.xyz, port: 2052, type: vmess, uuid: 1f70e81d-6d32-3470-a7c4-2d53bf4761da, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxqmiao, headers: {Host: bxa.76898102.xyz}}, udp: true}
@@ -183,16 +183,16 @@ proxy-groups:
       - TG搜索@ifantasticsgame来进群hxtll 5
       - TG搜索@ifantasticsgame来进群hxtll 6
       - TG搜索@ifantasticsgame来进群hxtll 7
-      - TG搜索@ifantasticsgame来进群hxzxf
-      - TG搜索@ifantasticsgame来进群hxzxf 2
-      - TG搜索@ifantasticsgame来进群hxzxf 3
-      - TG搜索@ifantasticsgame来进群hxzxf 4
-      - TG搜索@ifantasticsgame来进群hxzxf 5
-      - TG搜索@ifantasticsgame来进群hxzxf 6
-      - TG搜索@ifantasticsgame来进群hxzxf 7
-      - TG搜索@ifantasticsgame来进群hxzxf 8
-      - TG搜索@ifantasticsgame来进群hxzxf 9
-      - TG搜索@ifantasticsgame来进群hxzxf 10
+      - TG搜索@ifantasticsgame来进群bestgame
+      - TG搜索@ifantasticsgame来进群bestgame 2
+      - TG搜索@ifantasticsgame来进群bestgame 3
+      - TG搜索@ifantasticsgame来进群bestgame 4
+      - TG搜索@ifantasticsgame来进群bestgame 5
+      - TG搜索@ifantasticsgame来进群bestgame 6
+      - TG搜索@ifantasticsgame来进群bestgame 7
+      - TG搜索@ifantasticsgame来进群bestgame 8
+      - TG搜索@ifantasticsgame来进群bestgame 9
+      - TG搜索@ifantasticsgame来进群bestgame 10
       - TG搜索@ifantasticsgame来进群f5
       - TG搜索@ifantasticsgame来进群f5 2
       - TG搜索@ifantasticsgame来进群f5 3
@@ -326,16 +326,16 @@ proxy-groups:
       - TG搜索@ifantasticsgame来进群hxtll 5
       - TG搜索@ifantasticsgame来进群hxtll 6
       - TG搜索@ifantasticsgame来进群hxtll 7
-      - TG搜索@ifantasticsgame来进群hxzxf
-      - TG搜索@ifantasticsgame来进群hxzxf 2
-      - TG搜索@ifantasticsgame来进群hxzxf 3
-      - TG搜索@ifantasticsgame来进群hxzxf 4
-      - TG搜索@ifantasticsgame来进群hxzxf 5
-      - TG搜索@ifantasticsgame来进群hxzxf 6
-      - TG搜索@ifantasticsgame来进群hxzxf 7
-      - TG搜索@ifantasticsgame来进群hxzxf 8
-      - TG搜索@ifantasticsgame来进群hxzxf 9
-      - TG搜索@ifantasticsgame来进群hxzxf 10
+      - TG搜索@ifantasticsgame来进群bestgame
+      - TG搜索@ifantasticsgame来进群bestgame 2
+      - TG搜索@ifantasticsgame来进群bestgame 3
+      - TG搜索@ifantasticsgame来进群bestgame 4
+      - TG搜索@ifantasticsgame来进群bestgame 5
+      - TG搜索@ifantasticsgame来进群bestgame 6
+      - TG搜索@ifantasticsgame来进群bestgame 7
+      - TG搜索@ifantasticsgame来进群bestgame 8
+      - TG搜索@ifantasticsgame来进群bestgame 9
+      - TG搜索@ifantasticsgame来进群bestgame 10
       - TG搜索@ifantasticsgame来进群f5
       - TG搜索@ifantasticsgame来进群f5 2
       - TG搜索@ifantasticsgame来进群f5 3
@@ -763,16 +763,16 @@ proxy-groups:
       - TG搜索@ifantasticsgame来进群hxtll 5
       - TG搜索@ifantasticsgame来进群hxtll 6
       - TG搜索@ifantasticsgame来进群hxtll 7
-      - TG搜索@ifantasticsgame来进群hxzxf
-      - TG搜索@ifantasticsgame来进群hxzxf 2
-      - TG搜索@ifantasticsgame来进群hxzxf 3
-      - TG搜索@ifantasticsgame来进群hxzxf 4
-      - TG搜索@ifantasticsgame来进群hxzxf 5
-      - TG搜索@ifantasticsgame来进群hxzxf 6
-      - TG搜索@ifantasticsgame来进群hxzxf 7
-      - TG搜索@ifantasticsgame来进群hxzxf 8
-      - TG搜索@ifantasticsgame来进群hxzxf 9
-      - TG搜索@ifantasticsgame来进群hxzxf 10
+      - TG搜索@ifantasticsgame来进群bestgame
+      - TG搜索@ifantasticsgame来进群bestgame 2
+      - TG搜索@ifantasticsgame来进群bestgame 3
+      - TG搜索@ifantasticsgame来进群bestgame 4
+      - TG搜索@ifantasticsgame来进群bestgame 5
+      - TG搜索@ifantasticsgame来进群bestgame 6
+      - TG搜索@ifantasticsgame来进群bestgame 7
+      - TG搜索@ifantasticsgame来进群bestgame 8
+      - TG搜索@ifantasticsgame来进群bestgame 9
+      - TG搜索@ifantasticsgame来进群bestgame 10
       - TG搜索@ifantasticsgame来进群f5
       - TG搜索@ifantasticsgame来进群f5 2
       - TG搜索@ifantasticsgame来进群f5 3
